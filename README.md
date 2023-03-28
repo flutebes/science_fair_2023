@@ -1,2 +1,2 @@
-# science_fair_2023
+# sf_project_2023
 CYSF 2023
